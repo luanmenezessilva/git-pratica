@@ -1,3 +1,3 @@
 Primeira dica sobre git
 
-Primeira dica novamnete
+Primeira dica novamente (GitHub)

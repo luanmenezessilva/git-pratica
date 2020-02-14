@@ -1,3 +1,3 @@
 Segunda dica sobre git
 
-Alteração de dica
+Alteração da dica 2

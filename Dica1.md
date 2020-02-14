@@ -1,0 +1,1 @@
+Primeira dica sobre git
